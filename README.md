@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
 
-# Contact 0.9.1
+# Contact 0.9.2 [Experimental Captcha]
 
 Email contact page.
 
@@ -40,6 +40,8 @@ Content file with contact form:
     in culpa qui officia deserunt mollit anim id est laborum.
 
     [contact]
+
+!!! *The captcha is only shown in this mode!*  
 
 Content file with link to contact page:
 
