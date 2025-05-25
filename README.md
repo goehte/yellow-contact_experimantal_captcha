@@ -90,4 +90,8 @@ The following files can be customised:
 
 ## Developer
 
+Original Source:
 Anna Svensson. [Get help](https://datenstrom.se/yellow/help/).
+
+Modification: 
+goehte
